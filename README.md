@@ -52,8 +52,8 @@
 
 
 ## Featured Projects
+🔹 [**CTF Writeups**](https://github.com/Ariti-87/HTB-CTF) – Organized solutions & explanations from CTF challenges  
 🔹 [**Spider & Scorpion**](https://github.com/username/repo) – Recursive image downloader & metadata analyzer (Python)  
-🔹 [**CTF Writeups**](https://github.com/username/repo) – Organized solutions & explanations from CTF challenges  
 🔹 [**K3d + ArgoCD GitOps**](https://github.com/username/repo) – Automated Kubernetes GitOps deployment  
 
 
