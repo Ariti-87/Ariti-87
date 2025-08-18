@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adriano
 
-🎓 Cybersecurity student | 🔴 Offensive & Defensive Security | 🕹️ Passionate about CTFs, Pentesting & Cyber Defense  
+🎓 Cybersecurity student | 🔴 Offensive & 🔵 Defensive Security | 🕹️ Passionate about CTFs, Pentesting & Cyber Defense  
 ⚗️ Looking for opportunities in cybersecurity (internship/job)  
 
 <!-- 
