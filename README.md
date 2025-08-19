@@ -49,13 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="Mariadb" title="Mariadb" width="40" height="40"/>
 </p>
 
-
-
+<!--
 ## Featured Projects
 🔹 [**HTB Lab**](https://github.com/Ariti-87/HTB-CTF) – Organized solutions & explanations from CTF challenges  
 🔹 [**Spider & Scorpion**](https://github.com/Ariti-87/repo) – Recursive image downloader & metadata analyzer (Python)  
 🔹 [**K3d + ArgoCD GitOps**](https://github.com/Ariti-87/Inception-of-things) – Automated Kubernetes GitOps deployment  
-
+-->
 
 
 ## Fun Facts
