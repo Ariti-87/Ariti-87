@@ -26,7 +26,7 @@
 
 ### Reverse Engineering & Debugging
 <p align="left">
-  <img src="assets/Ghidra_logo.svg" alt="Ghidra" title="Ghidra" width="40" height="40"/>
+  <img src="assets/Ghidra_logo.png" alt="Ghidra" title="Ghidra" width="40" height="40"/>
   <img src="assets/gdb_icon.png" alt="GDB" title="GDB" width="40" height="40"/>
 </p>
 
