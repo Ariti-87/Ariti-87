@@ -1,3 +1,5 @@
+![Cyber Banner](./assets/banner.png)
+
 # 👋 Hi, I'm Adriano
 
 🎓 Cybersecurity student | 🔴 Offensive & 🔵 Defensive Security | 🕹️ Passionate about CTFs, Pentesting & Cyber Defense  
@@ -9,8 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://tonportfolio.com)  
 📧 [Email me](mailto:ton.email@example.com) 
 -->
-
-
 
 ## 🛠️ Skills & Tools
 
